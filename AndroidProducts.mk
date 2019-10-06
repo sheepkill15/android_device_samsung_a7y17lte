@@ -14,4 +14,4 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_a7y17lte.mk
+    $(LOCAL_DIR)/aosp_a7y17lte.mk
